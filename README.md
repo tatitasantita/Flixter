@@ -1,3 +1,3 @@
 # Flixter
-![GIF Demonstration of App](https://giphy.com/gifs/qiDXYGqamgFdbJ9nAi)
+![GIF Demonstration of App](https://media.giphy.com/media/qiDXYGqamgFdbJ9nAi/giphy.gif)
 
