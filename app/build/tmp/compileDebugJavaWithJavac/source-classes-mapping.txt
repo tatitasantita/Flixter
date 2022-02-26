@@ -1,0 +1,2 @@
+edu/gatech/seclass/flixter/BuildConfig.java
+ edu.gatech.seclass.flixter.BuildConfig
