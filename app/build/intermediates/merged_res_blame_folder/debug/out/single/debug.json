@@ -1,66 +1,70 @@
 [
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/layout_activity_detail.xml.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/layout/activity_detail.xml"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/layout_item_movie.xml.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/layout/item_movie.xml"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/layout_item_movie.xml.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/layout/item_movie.xml"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tatianasantos/Documents/codepath/Flixter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
     }
 ]

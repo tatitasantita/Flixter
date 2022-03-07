@@ -1,4 +1,4 @@
-#Sat Feb 26 01:54:34 EST 2022
+#Sun Mar 06 20:30:35 EST 2022
 base.2=/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
 path.2=11/classes.dex
 base.1=/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex

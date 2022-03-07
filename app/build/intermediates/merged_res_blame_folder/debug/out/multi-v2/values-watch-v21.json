@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tatianasantos/Documents/Flixter 2.07.42 AM/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "outputFile": "/Users/tatianasantos/Documents/codepath/Flixter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "/Users/tatianasantos/.gradle/caches/transforms-3/450710a86d7bc2f56724d3dfc3c72980/transformed/appcompat-1.4.1/res/values-watch-v21/values-watch-v21.xml",
+                    "source": "/Users/tatianasantos/.gradle/caches/transforms-3/b05d82f11b3b11c2a90713d487f2074e/transformed/appcompat-1.4.1/res/values-watch-v21/values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",
